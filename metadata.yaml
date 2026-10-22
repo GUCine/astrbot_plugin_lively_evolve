@@ -8,6 +8,7 @@ repo: https://github.com/GUCine/astrbot_plugin_lively_evolve
 support_platforms:
   - aiocqhttp
 astrbot_version: ">=4.29.0"
+category: 长期记忆
 tags:
   - 自我成長
   - 提案
