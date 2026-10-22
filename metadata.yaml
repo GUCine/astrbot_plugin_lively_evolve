@@ -1,0 +1,9 @@
+name: astrbot_plugin_lively_evolve
+display_name: 自我成長
+desc: 自我成長：按大家的反應微調參數、總結相處經驗、例行動作、每週五把群友願望整理成提案私信主人
+version: 2.0.0
+author: GUCine
+repo: https://github.com/GUCine/astrbot_plugin_lively_evolve
+support_platforms:
+  - aiocqhttp
+astrbot_version: ">=4.29.0"
