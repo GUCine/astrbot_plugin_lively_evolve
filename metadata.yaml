@@ -1,8 +1,9 @@
 name: astrbot_plugin_lively_evolve
-display_name: 自我成長
+display_name: Evolutio
+cn_name: 進化  # 中文名：她的本領清單、面板這些中文的地方用（10-31 用戶定插件名用拉丁名、中文名照舊）
 desc: 自我成長：按大家的反應微調參數、總結相處經驗、例行動作、每週五把群友願望整理成提案私信主人
 short_desc: 按大家的反應微調自己、總結相處經驗，每週把願望整理成提案
-version: 2.0.0
+version: 2.1.0
 author: GUCine
 repo: https://github.com/GUCine/astrbot_plugin_lively_evolve
 support_platforms:
